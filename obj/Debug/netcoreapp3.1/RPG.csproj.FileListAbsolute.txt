@@ -1,0 +1,13 @@
+C:\Users\lbrown4\dev\Day1\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Users\lbrown4\dev\Day1\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Users\lbrown4\dev\Day1\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Users\lbrown4\dev\Day1\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Users\lbrown4\dev\Day1\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Users\lbrown4\dev\Day1\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\lbrown4\dev\Day1\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
+C:\Users\lbrown4\dev\Day1\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Users\lbrown4\dev\Day1\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Users\lbrown4\dev\Day1\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+C:\Users\lbrown4\dev\Day1\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Users\lbrown4\dev\Day1\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\lbrown4\dev\Day1\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
